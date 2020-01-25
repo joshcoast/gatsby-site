@@ -8,7 +8,7 @@ import spacepic from "../images/gatsby-astronaut.png"
 export default () => (
   <Layout>
     <SEO title="Hi guys, this is the home page" />
-    <h1>Home Page</h1>
+    <h1>This home page is lame.</h1>
     <img src={spacepic} alt="Space Guy" style={{ maxWidth: "75%" }} />
     <p>
       Say hi to <Link to={"/hi-mom"}>Mom</Link>.
